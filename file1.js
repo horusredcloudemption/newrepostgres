@@ -1,3 +1,2 @@
 hellomate
-world
-test
+
